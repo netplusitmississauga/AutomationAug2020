@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class LoginPage {
-
+// This is Login Page of page factory
 	private WebDriver dr;
 	public LoginPage(WebDriver driver)
 	{
