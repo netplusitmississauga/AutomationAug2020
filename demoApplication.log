@@ -1,0 +1,8 @@
+[main] INFO  tests.LoginFeatureSingleBrowser  - Login To Application
+[main] INFO  tests.LoginFeatureSingleBrowser  - Verify Dashboard
+[main] INFO  tests.LoginFeatureSingleBrowser  - Total count:10
+[main] INFO  tests.LoginFeatureSingleBrowser  - All Strings:[Dashboard, Catalog, Sales, Customers, Promotions, Content management, Configuration, System, Reports, Help]
+[main] INFO  tests.LoginFeature  - Login To Application
+[main] INFO  tests.LoginFeature  - Verify Dashboard:--> admin@yourstore.com:admin
+[main] INFO  tests.LoginFeature  - Login To Application
+[main] INFO  tests.LoginFeature  - Verify Dashboard:--> admin@yourstore.com:admin

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+  <!-- <groups>
+    <run>
+      <include name="Sanity"/>
+        <include name="Regression"/>
+    </run>
+  </groups> -->
+  <parameter name="user" value="admin@yourstore.com" />
+  <parameter name="pass" value="admin" />
+    <classes>
+      <class name="tests.LoginFeatureSingleBrowser"/>
+      <class name="tests.LoginFeature"/>
+       <class name="tests.NewTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
